@@ -1,14 +1,14 @@
 [
-  { "ticker": "USD", "id": "3XEgsVhm2UVJvxtb1RskKqMnCES6XNrJov6CbaHiedfG"},
-  { "ticker": "EUR", "id": "75QTA3PxbGBURrgaYvD1FN6kXJngN9e6UXQ3WBYCPxa2"},
-  { "ticker": "CNY", "id": "4qj129mXF5DKJHgKhE78xZYhEFBsPf533mbgLCaa8z3q"},
-  { "ticker": "TRY", "id": "CcQpp5MvzVPdFrQ1QLofTx1FXP4c27hf8kvt4ykB2HZS"},
-  { "ticker": "BTC", "id": "a8v1xXMGsbFqKo4nVCMngMpWav6pXADWydDDGzLv5Da"},
-  { "ticker": "WAVES", "id": "Es12FoDTC8bK954BLwzaDvdWMf4hqcQJ3DxEsZkDyAYj"},
-  { "ticker": "BCH", "id": "BVdCijcWRAT1HmcG3VftJXoepLAvUN8Za71gVBHMGqwi"},
-  { "ticker": "ETH", "id": "BJJLAMr5ZCKXeNuCrzV8SdTfEiKYWC1hgypXF6X8r67u"},
-  { "ticker": "LTC", "id": "TGzUMs4x51UErtSyAy7vPsBqwsPxdaqyNyJ344uHVBY"},
-  { "ticker": "DASH", "id": "7YzoEjYHLAhh1Jr4J3zEhszFc3TFcDecEq53PYanre7v"},
-  { "ticker": "Monero", "id": "4JbJ9kf6BwTtwuYVCx6hiMTqqusaHz3xdmcjk8bv379Y"},
-  { "ticker": "ZEC", "id": "29q98GoZD6jHx3kpCmx2maf4jm6TM1XK8nhMNCtiJw4K"}
+  { "ticker": "USD", "id": "FnWTx39tJRKPoYZQ7j4cEEBAwfoxCTWZAyNmT8o7ppmh"},
+  { "ticker": "EUR", "id": "DfpZXTRwg3CUZKD9ZthbuRRmBhwtCCKaxRhdk3BVg6JR"},
+  { "ticker": "CNY", "id": "DKSZWZQbR1ug92vfY6sD5u2sbPW42FQhVC3F9n2Jz4iM"},
+  { "ticker": "TRY", "id": "E7AtXhGcuSHUamnjFa2zDbKhioKhB3gCyJ8p4br8XvKf"},
+  { "ticker": "BTC", "id": "7HN2orbs1DDjBinx6Tdpxp5FTE6Z6Qek68QwxTwaUptf"},
+  { "ticker": "WAVES", "id": "8HJgRCrdpMrh9jiXg1GxmVsVhKVMt5oKqj5EVUuKmKkc"},
+  { "ticker": "BCH", "id": "5QZu4yuPmkjDjXFL8E4WaV27fUo2abyKWqj5phqEypMQ"},
+  { "ticker": "ETH", "id": "75PfTPnZPMFWUCjrdGWcbKQNNYuQ8uv4axU5RQpkAHTS"},
+  { "ticker": "LTC", "id": "HikTwT88AVWvknjYEXSETrnGeWroxEFkuQ3Csy8o2qk7"},
+  { "ticker": "DASH", "id": "5FZfjhfG3DaywHpRMGBUdAta8Q4rc7CYZf9qWeJtpKbv"},
+  { "ticker": "Monero", "id": "7xM6a5gr2uC9bTF4smqCEf6n2VZD2vtKf5w91JKEzxAa"},
+  { "ticker": "ZEC", "id": "CPi7zmKSqdE1owUM3dN3ihEeVwt8tMRLxiTpYDTGyTNz"}
 ]
